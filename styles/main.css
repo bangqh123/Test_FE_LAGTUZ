@@ -1,0 +1,19 @@
+@import url('variables.css');
+@import url('header.css');
+@import url('footer.css');
+@import url('sections/banner.css');
+
+#wrapper-content {
+    width: 100%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    flex-direction: column;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}

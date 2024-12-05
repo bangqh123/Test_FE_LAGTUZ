@@ -1,0 +1,14 @@
+/* Khai báo biến màu sắc */
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --font-family: "Inter", sans-serif;
+}
+
+/* Các quy tắc dùng chung */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-family);
+}
